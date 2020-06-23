@@ -1,4 +1,4 @@
 # Lightning Talks
 public Lightning Talk documents
 
-* 草活動
+* 草活
