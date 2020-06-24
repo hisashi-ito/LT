@@ -16,7 +16,7 @@ github のイベント`GitHub Universe`のアフターイベントが東京で�
   * [2018/github_univ.pdf](2018/github_univ.pdf)
 
 * [GTC Japan (2018)](2018/gtc_japan.pdf)  
-NVIDIAの国内最大イベントGTC Japanへ言ってきた話 
+NVIDIAの国内最大イベントGTC Japanへ行ってきた話 
   * [2018/gtc_japan.pdf](2018/gtc_japan.pdf)
 
 * [おっさん&パンツァー(2018)](2018/soukaen.pdf)  
