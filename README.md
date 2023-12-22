@@ -1,6 +1,9 @@
 # Lightning Talks
 public Lightning Talk documents
 
+## 2023
+* [CCSE2023](https://github.com/hisashi-ito/LT/tree/master/2023/ccse2023)
+
 ## 2019
 * [草活 (2019)](2019/lt2019_github.pdf)  
 GitHubのcontributionを増やす活動（草活)についてLTを実施した内容。
