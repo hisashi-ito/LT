@@ -74,6 +74,8 @@ NVIDIA A100 (80GB)が家にあると、ちょっと嫌なことがあっても�
 
 基本的に[rinna](https://www.youtube.com/channel/UCmhN9JRR9fcFzxgjnW3VDpw)ってお姫様なんだなとおもった。
 
+<img src="https://rinna.co.jp/assets/img/home/service_img_rinna.png" width=300px>
+
 ## Contract One における契約書解析技術の開発 (NLP)
 * 保坂 大樹　さん
 * Sansan株式会社
